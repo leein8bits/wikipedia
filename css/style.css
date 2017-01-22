@@ -1,0 +1,34 @@
+:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.rando {
+  font-size: 2.25em;
+  background-color: #a6f2a6;
+  padding: 10px;
+  margin: 20px;
+}
+
+.container-fluid {
+  background-color: #e9fce9;
+}
+
+body {
+  background-color: #bdf5bd;
+}
+
+.content {
+  margin: 10vh 20vw 10vh 20vw;
+}
+
+.well {
+  background-color: #bdf5bd;
+}
+
+.inStuff {
+  margin: 10px;
+}
